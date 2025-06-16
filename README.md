@@ -1,2 +1,2 @@
-# star8469.github.com
+# star8469.github.io
 test
